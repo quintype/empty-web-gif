@@ -1,0 +1,20 @@
+{
+  "name": "empty-web-gif",
+  "version": "1.0.0",
+  "description": "An Empty Web GIF. Totally deserving of it's own NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/gja/empty-web-gif.git"
+  },
+  "keywords": [
+    "empty",
+    "gif",
+    "web"
+  ],
+  "author": "Tejas Dinkar <tejas@gja.in>",
+  "license": "ISC"
+}
